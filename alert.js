@@ -1,0 +1,1 @@
+alert("This website is just a rough website and the information available on this website is totally wrong and is not related to the real life")
